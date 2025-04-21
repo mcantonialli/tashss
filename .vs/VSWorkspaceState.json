@@ -1,11 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dist\\theme",
-    "\\dist\\theme\\fonts",
-    "\\dist\\theme\\fonts\\league-gothic",
-    "\\dist\\theme\\fonts\\source-sans-pro"
+    "\\css",
+    "\\css\\theme",
+    "\\css\\theme\\source",
+    "\\css\\theme\\template",
+    "\\js",
+    "\\js\\components",
+    "\\js\\controllers",
+    "\\js\\utils",
+    "\\plugin",
+    "\\plugin\\highlight"
   ],
-  "SelectedNode": "\\css",
+  "SelectedNode": "\\css\\layout.scss",
   "PreviewInSolutionExplorer": false
 }

@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\CursoGitHub\\tashss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\CursoGitHub\\tashss\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\theme\\serif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\theme\\serif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\CursoGitHub\\tashss\\dist\\reveal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\reveal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\reveal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\reveal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\CursoGitHub\\tashss\\css\\reveal.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\reveal.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\CursoGitHub\\tashss\\css\\theme\\source\\serif.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\theme\\source\\serif.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\CursoGitHub\\tashss\\dist\\theme\\serif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\theme\\serif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "reveal.css",
-              "DocumentMoniker": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\reveal.css",
+              "DocumentMoniker": "D:\\OneDrive\\CursoGitHub\\tashss\\dist\\reveal.css",
               "RelativeDocumentMoniker": "dist\\reveal.css",
-              "ToolTip": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\reveal.css",
+              "ToolTip": "D:\\OneDrive\\CursoGitHub\\tashss\\dist\\reveal.css",
               "RelativeToolTip": "dist\\reveal.css",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAACXKQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC8qAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-20T13:19:54.879Z",
+              "WhenOpened": "2025-04-21T03:09:42.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "serif.scss",
+              "DocumentMoniker": "D:\\OneDrive\\CursoGitHub\\tashss\\css\\theme\\source\\serif.scss",
+              "RelativeDocumentMoniker": "css\\theme\\source\\serif.scss",
+              "ToolTip": "D:\\OneDrive\\CursoGitHub\\tashss\\css\\theme\\source\\serif.scss",
+              "RelativeToolTip": "css\\theme\\source\\serif.scss",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-04-21T02:37:52.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "serif.css",
-              "DocumentMoniker": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\theme\\serif.css",
+              "DocumentMoniker": "D:\\OneDrive\\CursoGitHub\\tashss\\dist\\theme\\serif.css",
               "RelativeDocumentMoniker": "dist\\theme\\serif.css",
-              "ToolTip": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\dist\\theme\\serif.css",
+              "ToolTip": "D:\\OneDrive\\CursoGitHub\\tashss\\dist\\theme\\serif.css",
               "RelativeToolTip": "dist\\theme\\serif.css",
-              "ViewState": "AgIAAEMAAAAAAAAAAADgv0oAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-18T22:22:31.465Z",
+              "WhenOpened": "2025-04-21T02:36:57.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reveal.scss",
+              "DocumentMoniker": "D:\\OneDrive\\CursoGitHub\\tashss\\css\\reveal.scss",
+              "RelativeDocumentMoniker": "css\\reveal.scss",
+              "ToolTip": "D:\\OneDrive\\CursoGitHub\\tashss\\css\\reveal.scss",
+              "RelativeToolTip": "css\\reveal.scss",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAewNIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-04-21T02:31:13.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\index.html",
+              "DocumentMoniker": "D:\\OneDrive\\CursoGitHub\\tashss\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "D:\\OneDrive\\Documentos\\GitHub\\TASHSS\\index.html",
+              "ToolTip": "D:\\OneDrive\\CursoGitHub\\tashss\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-18T11:39:45.397Z",
               "EditorCaption": ""
